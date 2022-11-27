@@ -11,6 +11,10 @@ MasterSwordReference - Legend of Zelda - BotW: Master Sword Template
 https://www.deviantart.com/solvash/art/Legend-of-Zelda-BotW-Master-Sword-Template-684125167, Solvash
 TwistedSwordReference - Firelink Coiled Sword
 https://www.shapeways.com/product/RBNG5W3LA/firelink-coiled-sword, Artificer's Workbench, Samuel Black
+AoTSwordReference - Shingeki no Kyojin Blades,
+https://www.deviantart.com/suchan-desu/art/Shingeki-no-Kyojin-Blades-382586453 , Suchan-desu
+AoTHandleReference - Shingeki no Kyojin Blades,
+https://www.deviantart.com/suchan-desu/art/Shingeki-no-Kyojin-Blades-382586112 , Suchan-desu
 
 HOWL:::
 Howlfront, HowlBack, HowlLeft, HowlRight - I made a Miniature HOWL'S MOVING CASTLE out of junk // Ghibli Crafts
